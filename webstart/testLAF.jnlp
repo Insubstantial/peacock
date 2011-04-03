@@ -17,6 +17,8 @@
   <j2se version="1.6+" />
   <jar href="flamingo-tst.jar"/>
   <jar href="flamingo.jar"/>
+  <extension name="trident-core" href="http://insubstantial.github.com/halberd/webstart/trident-core.jnlp"/>
+
 </resources>
 <application-desc main-class="test.common.TestWebStartLAF" />
 </jnlp>
