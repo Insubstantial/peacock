@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jnlp spec="1.0+" codebase="https://flamingo.dev.java.net/webstart/"
+<jnlp spec="1.0+" codebase="http://insubstantial.github.com/peacock/webstart/"
  href="svnBrowser.jnlp">
 <information>
   <title>SVN Browser</title>
