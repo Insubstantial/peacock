@@ -14,8 +14,8 @@ apply plugin: 'sign'
 apply plugin: de.huxhorn.gradle.pgp.PgpPlugin
 
 group = "com.github.insubstantial"
-version = "6.2"
-versionKey = "6.2-invincible"
+version = "6.3-SNAPSHOT"
+versionKey = "6.3-defender-SNAPSHOT"
 release = "internal"
 timeStamp = new Date().format("MMMM d, yyyy HH:mm:ss z")
 
